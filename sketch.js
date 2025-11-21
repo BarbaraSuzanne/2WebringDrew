@@ -13,20 +13,20 @@ let timeElapsed=0
 let win="no"
 
 function preload(){
-HomePic=loadImage("/Images/Fireflies.png")
+HomePic=loadImage("Images/Fireflies.png")
 Calistoga=loadImage("background.png")
-Orch1=loadImage("/Images/Orchid1.png")
-Orch2=loadImage("/Images/Orchid2.png")
-Orch3=loadImage("/Images/Orchid3.png")
-Wist1=loadImage("/Images/Wisteria1.png")
-Wist2=loadImage("/Images/Wisteria2.png")
-Wist3=loadImage("/Images/Wisteria3.png")
-Snap1=loadImage("/Images/Snap1.png")
-Snap2=loadImage("/Images/Snap2.png")
-Snap3=loadImage("/Images/Snap3.png")
-Spark1=loadImage("/Images/Sparkler1.png")
-Spark2=loadImage("/Images/Sparkler2.png")
-Spark3=loadImage("/Images/Sparkler3.png")
+Orch1=loadImage("Images/Orchid1.png")
+Orch2=loadImage("Images/Orchid2.png")
+Orch3=loadImage("Images/Orchid3.png")
+Wist1=loadImage("Images/Wisteria1.png")
+Wist2=loadImage("Images/Wisteria2.png")
+Wist3=loadImage("Images/Wisteria3.png")
+Snap1=loadImage("Images/Snap1.png")
+Snap2=loadImage("Images/Snap2.png")
+Snap3=loadImage("Images/Snap3.png")
+Spark1=loadImage("Images/Sparkler1.png")
+Spark2=loadImage("Images/Sparkler2.png")
+Spark3=loadImage("Images/Sparkler3.png")
 }
 
 function setup() {
